@@ -10,10 +10,11 @@ Tests for checking kid's knowledges of shapes, colors and numbers.
 
 ## Setup/Installation Requirements
 
-* URL: janech.github.io/kids-quiz/kids-quiz.html
+* Copy and past URL in the browser: janech.github.io/kids-quiz/kids-quiz.html
+
 * Clone the files from the repository
 * Double click on the kids-quiz.html file 
-* see the result in your browser
+* See the result in your browser
 
 ## Technologies Used
 
